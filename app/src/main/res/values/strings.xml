@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">DreamNoteMVVM</string>
+    <string name="text_home">Notes</string>
+    <string name="text_favorites">favorites</string>
+    <string name="text_dream_notes">Dream Notes</string>
+    <string name="text_empty_list">Empty List</string>
+    <string name="text_clear">Clear</string>
+</resources>
